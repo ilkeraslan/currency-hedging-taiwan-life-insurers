@@ -1,0 +1,55 @@
+{
+ "beta": 0.46067232014469783,
+ "events": [
+  {
+   "date": "2025-09-16",
+   "label": "Industry asks members to develop accounting relief",
+   "raw": -0.6635724415398503,
+   "abnormal": -0.424218404862527,
+   "p": 0.12958963282937366
+  },
+  {
+   "date": "2025-11-21",
+   "label": "Industry association proposes the change",
+   "raw": 0.6383679514489149,
+   "abnormal": 0.6257556998269576,
+   "p": 0.052375809935205186
+  },
+  {
+   "date": "2025-12-18",
+   "label": "Regulator reports to the legislature; public hearing",
+   "raw": 0.09525322199808173,
+   "abnormal": 0.039365442001689774,
+   "p": 0.8650107991360692
+  },
+  {
+   "date": "2025-12-23",
+   "label": "Draft amendment published",
+   "raw": -0.3494840729494353,
+   "abnormal": 0.3153675700533035,
+   "p": 0.24568034557235421
+  },
+  {
+   "date": "2026-01-21",
+   "label": "First insurer resolves to adopt",
+   "raw": 0.03164056346598443,
+   "abnormal": 0.2811993873169727,
+   "p": 0.2975161987041037
+  },
+  {
+   "date": "2026-01-29",
+   "label": "Amendment issued; large insurers adopt",
+   "raw": 0.7645784299433522,
+   "abnormal": 0.5185330423932554,
+   "p": 0.08315334773218143
+  }
+ ],
+ "cum": 1.3560027367296519,
+ "p_one": 0.03165,
+ "p_two": 0.0779,
+ "sd_window": 0.3397108987606064,
+ "n_placebo": 1852,
+ "n_days": 1871,
+ "start": "2019-01-03",
+ "end": "2026-06-30"
+}

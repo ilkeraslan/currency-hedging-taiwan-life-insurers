@@ -1,0 +1,69 @@
+{
+ "beta": 1.1028097557590657,
+ "events": [
+  {
+   "date": "2025-09-16",
+   "label": "Industry asks members to develop accounting relief",
+   "raw": -0.2224511152677633,
+   "abnormal": 0.6974042001962897,
+   "p": 0.5900900900900901
+  },
+  {
+   "date": "2025-11-21",
+   "label": "Industry association proposes the change",
+   "raw": 0.9039096829156379,
+   "abnormal": -0.7045601197982945,
+   "p": 0.5900900900900901
+  },
+  {
+   "date": "2025-12-18",
+   "label": "Regulator reports to the legislature; public hearing",
+   "raw": 1.092141476616304,
+   "abnormal": 0.33204674427522685,
+   "p": 0.7972972972972973
+  },
+  {
+   "date": "2025-12-23",
+   "label": "Draft amendment published",
+   "raw": -1.067484759984172,
+   "abnormal": -0.25306340446825637,
+   "p": 0.8468468468468469
+  },
+  {
+   "date": "2026-01-21",
+   "label": "First insurer resolves to adopt",
+   "raw": -1.9730437401473622,
+   "abnormal": -1.8535557174993318,
+   "p": 0.16216216216216217
+  },
+  {
+   "date": "2026-01-29",
+   "label": "Amendment issued; large insurers adopt",
+   "raw": -0.7331490713644917,
+   "abnormal": 0.3237655437278253,
+   "p": 0.7972972972972973
+  }
+ ],
+ "cum": -1.457962753566541,
+ "p_one": 0.8456,
+ "p_two": 0.6872,
+ "sd_window": 1.382489324177346,
+ "n_placebo": 222,
+ "n_days": 241,
+ "start": "2025-07-02",
+ "end": "2026-06-30",
+ "insurers": [
+  "Cathay",
+  "Fubon",
+  "KGI",
+  "Taishin-Shin Kong"
+ ],
+ "banks": [
+  "E.Sun",
+  "Mega",
+  "First",
+  "Hua Nan",
+  "Taiwan Cooperative",
+  "SinoPac"
+ ]
+}

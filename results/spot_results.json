@@ -1,0 +1,112 @@
+{
+ "SGD": {
+  "beta": 0.47159520368574415,
+  "events": [
+   {
+    "date": "2025-09-16",
+    "label": "Industry asks members to develop accounting relief",
+    "raw": -0.6635724415398503,
+    "abnormal": -0.5011696124832696,
+    "p": 0.10434782608695652
+   },
+   {
+    "date": "2025-11-21",
+    "label": "Industry association proposes the change",
+    "raw": 0.6383679514489149,
+    "abnormal": 0.717785411131971,
+    "p": 0.0391304347826087
+   },
+   {
+    "date": "2025-12-18",
+    "label": "Regulator reports to the legislature; public hearing",
+    "raw": 0.09525322199808173,
+    "abnormal": 0.05143145607403293,
+    "p": 0.8608695652173913
+   },
+   {
+    "date": "2025-12-23",
+    "label": "Draft amendment published",
+    "raw": -0.3494840729494353,
+    "abnormal": -0.16611219416367234,
+    "p": 0.6
+   },
+   {
+    "date": "2026-01-21",
+    "label": "First insurer resolves to adopt",
+    "raw": 0.03164056346598443,
+    "abnormal": 0.09417903717818797,
+    "p": 0.7565217391304347
+   },
+   {
+    "date": "2026-01-29",
+    "label": "Amendment issued; large insurers adopt",
+    "raw": 0.7645784299433522,
+    "abnormal": 0.5375005359058767,
+    "p": 0.08695652173913043
+   }
+  ],
+  "cum": 0.7336146336431266,
+  "p_one": 0.32595,
+  "p_two": 0.406,
+  "sd_window": 0.33258072495226687,
+  "n_placebo": 230,
+  "n_days": 249,
+  "start": "2025-07-02",
+  "end": "2026-06-30"
+ },
+ "KRW+SGD": {
+  "beta": 0.27249704416932813,
+  "events": [
+   {
+    "date": "2025-09-16",
+    "label": "Industry asks members to develop accounting relief",
+    "raw": -0.6635724415398503,
+    "abnormal": -0.5219896620837701,
+    "p": 0.11304347826086956
+   },
+   {
+    "date": "2025-11-21",
+    "label": "Industry association proposes the change",
+    "raw": 0.6383679514489149,
+    "abnormal": 0.6309075481708892,
+    "p": 0.06521739130434782
+   },
+   {
+    "date": "2025-12-18",
+    "label": "Regulator reports to the legislature; public hearing",
+    "raw": 0.09525322199808173,
+    "abnormal": 0.062194463769632086,
+    "p": 0.8217391304347826
+   },
+   {
+    "date": "2025-12-23",
+    "label": "Draft amendment published",
+    "raw": -0.3494840729494353,
+    "abnormal": 0.04378919224796557,
+    "p": 0.8956521739130435
+   },
+   {
+    "date": "2026-01-21",
+    "label": "First insurer resolves to adopt",
+    "raw": 0.03164056346598443,
+    "abnormal": 0.17925968202819403,
+    "p": 0.5652173913043478
+   },
+   {
+    "date": "2026-01-29",
+    "label": "Amendment issued; large insurers adopt",
+    "raw": 0.7645784299433522,
+    "abnormal": 0.6190375803914652,
+    "p": 0.06521739130434782
+   }
+  ],
+  "cum": 1.013198804524376,
+  "p_one": 0.1867,
+  "p_two": 0.23645,
+  "sd_window": 0.3377204003336947,
+  "n_placebo": 230,
+  "n_days": 249,
+  "start": "2025-07-02",
+  "end": "2026-06-30"
+ }
+}

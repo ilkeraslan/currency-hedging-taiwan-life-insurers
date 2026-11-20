@@ -1,0 +1,17 @@
+month,hedge_ratio_pct,fx_reserve_ntbn,special_surplus_reserve_ntbn,net_exposure_unhedged_nttn,gross_exposure_nttn,hedging_cost_month_ntbn,source,cs_cost_pct_annual,ndf_cost_pct_annual
+2024-12,66.39,219.6,,,,,Economic Daily News 27 Jan 2026 (hedge ratio); reserve = Dec 2025 level less 2025 increase of 394.1 (CNA 10 Mar 2026),,
+2025-03,61.5,283.6,,,,,Insurance Journal/Bloomberg 12 Jun 2025 citing FSC; reserve: Economic Daily News 2026,,
+2025-04,63.9,,,,,,World Journal/Economic Daily News Jun 2025: May ratio 64% up 0.1 pp on month,,
+2025-05,64.0,18.8,,,,,World Journal/Economic Daily News Jun 2025; reserve trough reported by Economic Daily News 2026; CS cost about 3 per cent,3.0,6.6
+2025-06,,233.5,,,,,Commercial Times 1 Aug 2025,,
+2025-08,62.25,372.6,,,,,cnyes 30 Sep 2025,,
+2025-09,60.1,341.9,,,15.1,22.8,CNA 28 Oct 2025; exposure: cnyes 3 Dec 2025,,
+2025-10,58.55,384.5,,,15.2,21.3,cnyes/uanalyze 28 Nov 2025; FSC press release 23 Dec 2025,,
+2025-11,59.03,513.8,,,,18.6,cnyes/uanalyze 30 Dec 2025; cost = Jan-Nov 273.6 less Jan-Oct 255.0,,
+2025-12,50.23,613.7,289.7,7.7,15.4,18.6,"CNA 10 Mar 2026; Economic Daily News 27 Jan 2026; uanalyze 27 Jan 2026; costs implied by January levels and monthly changes (Economic Daily News, March 2026)",2.13,0.29
+2026-01,47.0,,289.7,,,,"CNA 10 Mar 2026; costs: Economic Daily News, March 2026",2.03,0.74
+2026-02,45.1,625.9,289.7,,,,CNA 31 Mar 2026; costs: Economic Daily News 31 Mar 2026,1.96,1.01
+2026-03,45.15,621.4,289.7,,,,Economic Daily News Apr 2026,,
+2026-04,44.31,680.1,289.7,8.7024,,,CNA 28 May 2026,,
+2026-05,43.66,691.3,289.7,,,10.5,CNA 2 Jul 2026,,
+2026-06,42.89,699.7,365.1,8.9449,,,Economic Daily News 30 Jul 2026,,

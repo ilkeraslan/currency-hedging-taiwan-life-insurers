@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Data and code for: Accounting rules, currency hedging and external adjustment"
+type: software
+authors:
+  - family-names: Aslan
+    given-names: Ilker
+    orcid: "https://orcid.org/0000-0001-9241-9420"
+    affiliation: "Kalaidos University of Applied Sciences"
+license: MIT
+repository-code: "https://github.com/ilkeraslan/"
+keywords:
+  - currency hedging
+  - external adjustment
+  - life insurance
+  - accounting rules
+  - Taiwan
+  - event study
+preferred-citation:
+  type: report
+  title: "Accounting rules, currency hedging and external adjustment: Evidence from Taiwan's life insurers"
+  authors:
+    - family-names: Aslan
+      given-names: Ilker
+      orcid: "https://orcid.org/0000-0001-9241-9420"
+      affiliation: "Kalaidos University of Applied Sciences"
+
+  institution:
+    name: "Kalaidos University of Applied Sciences"
+  year: 2026
+  url: "https://ilkeraslan.github.io/papers/currency-hedging-taiwan-life-insurers.html"
+  notes: "Working paper"
